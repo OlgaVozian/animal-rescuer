@@ -32,9 +32,9 @@ public class App
         veterinarian.specialization = "dogs";
 
         Game game = new Game();
-        game.adopter = "Olga Vozian";
+        game.adopter = adopter;
         game.dog = "Narta";
-        game.veterinarian = "Mihail Vozian";
+        game.veterinarian = veterinarian;
 
     }
 }

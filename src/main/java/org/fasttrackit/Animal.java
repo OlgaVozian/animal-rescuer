@@ -1,8 +1,7 @@
 package org.fasttrackit;
 
-public class Animal {
-    String name;
-    int age;
+public class Animal extends Veterinary {
+
     byte levelOfHealth;
     byte levelOfFeelingHungry;
     byte moodLevel;

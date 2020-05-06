@@ -1,7 +1,7 @@
 package org.fasttrackit;
 
-public class Adopter {
-    String name;
+public class Adopter extends Veterinary {
+
     int availableMoney;
 
 }
